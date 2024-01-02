@@ -1,0 +1,36 @@
+{
+    "name" : "Calculator",
+    "version" : "1.0",
+    "description" : "The Calculator Plugin can be easily integrated into your applications. It provides a user-friendly interface for performing basic arithmetic calculations.",
+    "keywords" : ["calculator","calculations","region","plugin"],
+    "homepage" : "https://github.com/farooqahmad47/calculator",
+    "bugs" : {
+      "url" : "https://github.com/farooqahmad47/calculator/issues",
+      "email" : "farooq.oracle47@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Farooq Ahmad",
+      "email" : "farooq.oracle47@gmail.com",
+      "url" : "https://www.linkedin.com/in/farooqahmadoracleapex/",
+      "twitter": ""
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/farooqahmad47/calculator.git"
+    },
+   "oracle" : {
+      "versions" : ["12.1.0.1","12.2.0.1","18.0.0.0","19.0.0.0","21.0.0.0,"23.0.0.0"],
+      "apex" : {
+        "versions" : ["21.2","22.1","22.2","23.1","23.2"],
+        "plugin" : {
+          "internalName" : "CALULATOR",
+          "type" : "region",
+          "demo" : "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
+          "previewImage" : "https://raw.githubusercontent.com/farooqahmad47/calculator/main/CALCULATOR.gif"
+        }
+      }
+    }
+  }
+  
